@@ -98,4 +98,4 @@
 
 
 
-//MVP idee. Kirjuta ideid mis sul tuleb kui sa kivis oled.
+//MVP idee. lugesid mingit raamatut? sisestad raamat nime, autori, 5-e sõnaga kirjeldus, hinne.
